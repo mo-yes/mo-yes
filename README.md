@@ -163,38 +163,3 @@ gantt
     Portfolio V2 :2024-03-15, 30d
     Admin Dashboard :2024-04-01, 45d
     Open Source Contributions :2024-05-01, 60d
-</div>
-🎯 Current Focus & Goals
-<table> <tr> <td width="50%" valign="top"> <h3 align="center">🎨 UI/UX Excellence</h3> <ul> <li>Mastering advanced CSS animations</li> <li>Building custom component libraries</li> <li>Implementing dark/light mode systems</li> <li>Creating micro-interactions for better UX</li> <li>Learning 3D web graphics with Three.js</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">⚡ Performance Optimization</h3> <ul> <li>Implementing code splitting strategies</li> <li>Optimizing bundle size and load times</li> <li>Improving Core Web Vitals scores</li> <li>Learning advanced caching techniques</li> <li>Implementing PWA features</li> </ul> </td> </tr> </table>
-📝 Latest Blog Posts & Thoughts
-💭 "Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?'"
-
-🎯 "The web is not just about looking good, it's about working well for everyone, everywhere, on every device."
-
-🤝 Let's Collaborate!
-<div align="center">
-I'm always open to:
-
-🤝 Freelance projects and contract work
-
-💼 Full-time opportunities as a Frontend Developer
-
-🎨 UI/UX design collaborations
-
-🌱 Mentoring junior developers
-
-🔧 Open source contributions
-
-</div>
-<div align="center">
-📫 Get In Touch
-https://img.shields.io/badge/%F0%9F%93%A7_Email-mohamedyasserdev1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Mohamed_Yasser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techmart_green.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white
-
-<!-- Footer Wave -->
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&animation=twinkling
-
-⭐ Star my repositories if you find something interesting! ⭐
-
-<p align="center"> <i>Made with ❤️ and endless cups of coffee</i> </p></div>
