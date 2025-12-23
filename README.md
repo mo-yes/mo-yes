@@ -1,117 +1,165 @@
-# 👨‍💻 Mohamed Yasser - Front-End Software Developer
-
-[![GitHub followers](https://img.shields.io/github/followers/mo-yes?style=social)](https://github.com/mo-yes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://techmart-green.vercel.app/)
-[![Hireable](https://img.shields.io/badge/Hireable-Open%20to%20Work-brightgreen?style=flat-square)](https://www.linkedin.com/in/mohamed-yasser-dev)
-
 <div align="center">
-✨ **Crafting Digital Experiences with Modern Web Technologies** ✨
+
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamed%20Yasser&fontSize=60&fontAlignY=40&desc=Front-End%20Developer&descSize=24&descAlignY=65&animation=fadeIn)
+
+<!-- Profile Views -->
+![](https://komarev.com/ghpvc/?username=mo-yes&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+<!-- Animated Text -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Future+Web+Experiences;Crafting+Clean+Modern+Code;React+%26+Next.js+Specialist;Passionate+Frontend+Developer" alt="Typing SVG" />
+</h3>
+
+<!-- Social Links -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/mohamed-yasser-dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedyasserdev1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://techmart-green.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mo-yes">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
 </div>
 
 ---
 
-## 🎨 Tech Stack & Tools
+## 📊 **GitHub Overview**
 
-### 🚀 Frontend Development
 <div align="center">
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-</div>
 
-### 🔧 Tools & Workflow
-<div align="center">
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=react&logoColor=white)
-![Heroicons](https://img.shields.io/badge/Heroicons-7C3AED?style=for-the-badge&logo=heroicons&logoColor=white)
-</div>
+<!-- GitHub Stats Cards -->
+| ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-yes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=mo-yes&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&dates=8B949E) |
+|:---:|:---:|
 
-### 💼 Soft Skills
-<div align="center">
-![Teamwork](https://img.shields.io/badge/🤝-Teamwork-blue?style=flat-square)
-![Communication](https://img.shields.io/badge/💬-Communication-green?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/🔍-Problem%20Solving-orange?style=flat-square)
-![Time Management](https://img.shields.io/badge/⏰-Time%20Management-purple?style=flat-square)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-yes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=)
+
+<!-- Trophy -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=mo-yes&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
 </div>
 
 ---
 
-## 📖 About Me
+## 🛠️ **Tech Stack & Expertise**
+
+### **Frontend Mastery**
 <div align="center">
-```javascript
-const mohamedYasser = {
-  role: "Front-End Software Developer",
-  specialization: ["React.js", "Next.js", "Modern Web Design"],
-  focus: "Clean, maintainable code & user-friendly experiences",
-  status: "Enhancing e-commerce projects & expanding portfolio",
-  philosophy: "Quality over quantity, user experience first"
-};
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
-Hi, I'm Mohamed Yasser — a passionate frontend developer who transforms ideas into interactive digital experiences. I specialize in building modern web applications with React.js and Next.js, focusing on performance, accessibility, and beautiful UI/UX.
 
-🌱 Currently: Enhancing my TechMart E-Commerce platform
+### **Styling & UI Libraries**
+<div align="center">
 
-💡 Approach: Clean code architecture, modern design patterns, best practices
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=react&logoColor=white)
 
-🎯 Goal: Create intuitive, responsive, high-performance web apps
+</div>
 
-🤝 Values: Collaboration, continuous learning, attention to detail
+### **Development Tools**
+<div align="center">
 
-🌟 Featured Projects
-🛒 TechMart E-Commerce Platform
-Description: Modern e-commerce solution built with cutting-edge technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Key Features:
+</div>
 
-Product Catalog with search & filtering
+### **Soft Skills**
+<div align="center" style="margin-top: 20px;">
 
-Shopping Cart with real-time updates
+<span style="display: inline-block; background: linear-gradient(45deg, #3498db, #8e44ad); padding: 10px 20px; margin: 5px; border-radius: 25px; color: white; font-weight: bold;">
+  🤝 Team Collaboration
+</span>
+<span style="display: inline-block; background: linear-gradient(45deg, #2ecc71, #1abc9c); padding: 10px 20px; margin: 5px; border-radius: 25px; color: white; font-weight: bold;">
+  💡 Problem Solving
+</span>
+<span style="display: inline-block; background: linear-gradient(45deg, #e74c3c, #d35400); padding: 10px 20px; margin: 5px; border-radius: 25px; color: white; font-weight: bold;">
+  ⏱️ Time Management
+</span>
+<span style="display: inline-block; background: linear-gradient(45deg, #9b59b6, #34495e); padding: 10px 20px; margin: 5px; border-radius: 25px; color: white; font-weight: bold;">
+  📈 Continuous Learning
+</span>
 
-Fully Responsive mobile-first design
+</div>
 
-Optimized Performance using Next.js
+---
 
-Modern UI using Tailwind CSS
+## 🚀 **Featured Project Spotlight**
 
-State Management for seamless UX
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 30px 0;">
 
-Tech Stack:
+### 🛒 **TechMart E-Commerce Platform**
+#### *Modern Shopping Experience Built with React & Next.js*
 
-Frontend: React.js, Next.js, Tailwind CSS
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A5568)](https://techmart-green.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📦_Source_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=2D3748)](https://github.com/mo-yes)
 
-State: React Hooks, Context API
+</div>
 
-Deployment: Vercel
+<div align="center">
 
-Icons: Heroicons
+| **Feature** | **Technology** | **Status** |
+|:------------|:--------------|:-----------|
+| **Responsive Design** | Tailwind CSS | ✅ Complete |
+| **Product Catalog** | React Components | ✅ Complete |
+| **Shopping Cart** | Context API | ✅ Complete |
+| **API Integration** | Next.js API Routes | ✅ Complete |
+| **Payment Gateway** | Integration Ready | 🚧 In Progress |
+| **Admin Dashboard** | Next.js + Prisma | 📅 Planned |
 
-Styling: Custom design system
+</div>
 
-Links:
+### **Project Highlights**
+✨ **Modern Stack**: Built with React 18, Next.js 14, and Tailwind CSS  
+✨ **Performance**: Optimized for speed with lazy loading and image optimization  
+✨ **UI/UX**: Clean, intuitive interface with smooth animations  
+✨ **Scalable**: Modular architecture for easy feature additions  
+✨ **SEO Friendly**: Server-side rendering and meta tags optimization  
 
+---
 
+## 📈 **Development Activity**
 
-📈 GitHub Stats
-<div align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-yes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-yes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mo-yes&theme=radical&hide_border=true&background=0D1117) </div>
-🚧 Upcoming Projects
-Portfolio V2.0: Interactive 3D elements, Dark/Light mode, Case studies section, Performance optimization
+<!-- Snake Animation -->
+<div align="center">
+  
+![Snake animation](https://github.com/mo-yes/mo-yes/blob/output/github-contribution-grid-snake.svg)
 
-Admin Dashboard: Real-time analytics, User management, Charts, Role-based access
+</div>
 
-React Experiments: Advanced animations, Micro-interactions, Custom hooks library
-
-📫 Connect With Me
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyasserdev1@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo-yes) [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://techmart-green.vercel.app/) </div>
-<div align="center"> 🎨 "Code is like humor. When you have to explain it, it's bad." ⭐ Feel free to explore my repositories and star the ones you like! ⭐
-
-
-</div> ```
+<!-- Activity Graph -->
+<div align="center">
+  
+```mermaid
+gantt
+    title Project Timeline
+    dateFormat  YYYY-MM-DD
+    section Current
+    E-Commerce Platform :done, 2024-01-01, 90d
+    UI Component Library :active, 2024-02-01, 60d
+    section Upcoming
+    Portfolio V2 :2024-03-15, 30d
+    Admin Dashboard :2024-04-01, 45d
+    Open Source Contributions :2024-05-01, 60d
