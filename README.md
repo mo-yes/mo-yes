@@ -29,25 +29,6 @@
 
 </div>
 
----
-
-## 📊 **GitHub Overview**
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-| ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-yes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=mo-yes&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&dates=8B949E) |
-|:---:|:---:|
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-yes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=)
-
-<!-- Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=mo-yes&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 🛠️ **Tech Stack & Expertise**
 
